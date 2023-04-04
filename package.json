@@ -1,0 +1,23 @@
+{
+  "name": "Testing-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lul-Abdifan/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lul-Abdifan/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/Lul-Abdifan/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
